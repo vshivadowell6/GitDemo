@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/bson-4.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/freemarker-2.3.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/javaee-api-8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/log4j-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/log4j-core-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/openxml4j-1.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/poi-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/poi-ooxml-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/poi-ooxml-lite-5.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/selenium-devtools-v86-4.0.0-alpha-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/selenium-server-4.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_1/libs/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1000020344/eclipse-workspace/SmartBase_Automation_2/libs/testng-7.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

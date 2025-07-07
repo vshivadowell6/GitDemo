@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ShSuite]" guice-stage="DEVELOPMENT" verbose="2">
+  <listeners>
+    <listener class-name="Listenerpack.Listenercls"/>
+  </listeners>
+  <test thread-count="5" name="SelectProject and enter Data(failed)" verbose="2">
+    <groups>
+      <run>
+        <include name="Login"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.UpdateProjectStatus_Test">
+        <methods>
+          <include name="UpdateProjectStatus"/>
+        </methods>
+      </class> <!-- tests.UpdateProjectStatus_Test -->
+      <class name="tests.LoginToSmartBase_Test">
+        <methods>
+          <include name="LoginCreds" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.LoginToSmartBase_Test -->
+    </classes>
+  </test> <!-- SelectProject and enter Data(failed) -->
+</suite> <!-- Failed suite [ShSuite] -->

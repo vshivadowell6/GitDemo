@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ShSuite" verbose ="2">
+		
+		<test  name="SelectProject and enter Data">
+		 <groups>		
+   			<run>		
+   		 	<include name="Login" />		
+  		 	</run>		
+  		</groups>
+			<classes>
+			<class name="tests.LoginToSmartBase_Test" />
+			<class name="tests.SelectProject_Test" />
+			</classes>
+			</test> <!-- SelectProject and enter Data for Test -->	
+		
+		
+</suite> <!-- ShSuite -->
+
